@@ -728,7 +728,7 @@ p {
     line-height: 2;
     letter-spacing: 0.04em;
     color: var(--subtle-text);
-    transition: translate --cubic;
+    transition: translate var(--cubic);
 }
 
 .order .input {
